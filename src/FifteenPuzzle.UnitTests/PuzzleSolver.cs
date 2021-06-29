@@ -2,6 +2,6 @@ namespace FifteenPuzzle.UnitTests
 {
     public class PuzzleSolver
     {
-        // TODO:
+        // TODO: Implement solvability algorithm.
     }
 }
