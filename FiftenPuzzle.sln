@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FifteenPuzzle", "FifteenPuzzle\FifteenPuzzle.csproj", "{C4A0834A-E268-4F34-9AAE-0BA89B7BA112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FifteenPuzzle.UnitTests", "FifteenPuzzle.UnitTests\FifteenPuzzle.UnitTests.csproj", "{E290D23B-8BD3-4AD6-96E5-9ABE06776250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4A0834A-E268-4F34-9AAE-0BA89B7BA112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A0834A-E268-4F34-9AAE-0BA89B7BA112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A0834A-E268-4F34-9AAE-0BA89B7BA112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A0834A-E268-4F34-9AAE-0BA89B7BA112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E290D23B-8BD3-4AD6-96E5-9ABE06776250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E290D23B-8BD3-4AD6-96E5-9ABE06776250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E290D23B-8BD3-4AD6-96E5-9ABE06776250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E290D23B-8BD3-4AD6-96E5-9ABE06776250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
