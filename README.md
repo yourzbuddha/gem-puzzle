@@ -6,7 +6,7 @@ The 15 puzzle (also called Gem Puzzle, Boss Puzzle, Game of Fifteen, Mystic Squa
 
 ![Gameplay example](https://user-images.githubusercontent.com/32564756/123743832-80b62400-d8b6-11eb-8124-656bfdfb8cd6.gif)
 
-## HOW TO ##
+## How to ##
 The program written using C# (.NET 5).
 Requirements:
 - [.NET5](https://dotnet.microsoft.com/download/dotnet/5.0)
